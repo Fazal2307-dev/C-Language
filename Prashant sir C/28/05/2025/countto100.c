@@ -5,9 +5,6 @@ for(int i=1;i<=100;i++){
  }
 }
 
-
-
-
 int main(){
 oneTo100();
 return 0;
