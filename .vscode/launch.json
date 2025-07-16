@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Display/C Language/GFG C/2.Variable",
-      "program": "d:/Display/C Language/GFG C/2.Variable/build/Debug/outDebug",
+      "cwd": "d:/Display/C Language/CodeForWin in C",
+      "program": "d:/Display/C Language/CodeForWin in C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
