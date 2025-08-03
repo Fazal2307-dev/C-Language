@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main(){
-    int a=5;
-    a = a+5;
-    printf("%d \n",a);
+    int age = 23;
+    printf("MD FAZAL your are %d years old:",age);
     return 0;
-    
+
 }
