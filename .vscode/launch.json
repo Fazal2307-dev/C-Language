@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Display/C Language/CodeForWin in C/1.Basic",
-      "program": "d:/Display/C Language/CodeForWin in C/1.Basic/build/Debug/outDebug",
+      "cwd": "d:/Display/C Language/Bro Code",
+      "program": "d:/Display/C Language/Bro Code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
