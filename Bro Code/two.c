@@ -6,5 +6,7 @@ int main(){
     printf("%d \n",a);
     printf("this year is %d \n",year);
     printf("your gap is %f \n",gpa);
+    float price = 10.25;
+    printf("the price of bag is $%f \n",price);
     return 0;
 }
