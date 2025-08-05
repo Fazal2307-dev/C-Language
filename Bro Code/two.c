@@ -8,5 +8,7 @@ int main(){
     printf("your gap is %f \n",gpa);
     float price = 10.25;
     printf("the price of bag is $%f \n",price);
+    double pi= 3.1415926587235;
+    printf("the value of pi is %.15lf \n",pi);
     return 0;
 }
