@@ -1,6 +1,5 @@
 {
   "configurations": [
-    
     {
       "name": "C/C++: gcc build and debug active file",
       "type": "cppdbg",
@@ -15,8 +14,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Display/C Language/Bro Code",
-      "program": "d:/Display/C Language/Bro Code/build/Debug/outDebug",
+      "cwd": "d:/Display/C Language/GFG C/2.Variable/2.5",
+      "program": "d:/Display/C Language/GFG C/2.Variable/2.5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
