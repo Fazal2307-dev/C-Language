@@ -1,8 +1,9 @@
 #include<stdio.h>
 int x=10;
 int main(){
-    int x=20;
-    int x=30;
-    printf("%d",x);
+    int x;
+    printf("Enter the value of x;\n");
+    scanf("%d",&x);
+    printf("%d",x+10);
     return 0;
 }

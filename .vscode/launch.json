@@ -1,11 +1,26 @@
 {
+  "version": "2.0.0",
   "configurations": [
     {
       "name": "C/C++: gcc build and debug active file",
       "type": "cppdbg",
       "request": "launch",
       "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
-      "cwd": "${workspaceFolder}"
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: gcc build active file"
     },
     {
       "name": "C/C++ Runner: Debug Session",
@@ -14,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Display/C Language/GFG C/2.Variable/2.5",
-      "program": "d:/Display/C Language/GFG C/2.Variable/2.5/build/Debug/outDebug",
+      "cwd": "d:/Display/C Language/GFG C/2.Variable/2.7",
+      "program": "d:/Display/C Language/GFG C/2.Variable/2.7/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
