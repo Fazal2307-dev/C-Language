@@ -7,7 +7,7 @@ int main(){
 // printf("%d",x);
 
 int r;
-printf("Enter value of r \n");
+printf("Enter value of r: \n");
 scanf("%d",&r);
 printf("%f",PI*r*r);
 return 0;
