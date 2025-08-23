@@ -5,5 +5,8 @@ int main(){
     printf("%d\n",z);
     z = (y/x)+x;
     printf("%d\n",z);
+    z =y=x;
+    printf("%d\n",z);
+    printf("%d",z);
     return 0;
 }
