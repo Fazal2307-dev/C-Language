@@ -7,6 +7,8 @@ int main(){
     printf("%d\n",x);
     x-=10;
     printf("%d\n",x);
+    x*=2;
+    printf("%d\n",x);
 
 
 
