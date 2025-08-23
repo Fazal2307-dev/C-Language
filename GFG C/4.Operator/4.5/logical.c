@@ -6,5 +6,7 @@ int main(){
     printf("%d\n",res);
     res = (x>0||x>y);
     printf("%d\n",res);
+    res =!res;
+    printf("%d\n",res);
     return 0;
 }
