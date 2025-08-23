@@ -5,6 +5,8 @@ int main(){
     printf("%d\n",y);
     x+=10;
     printf("%d\n",x);
+    x-=10;
+    printf("%d\n",x);
 
 
 
