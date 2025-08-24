@@ -11,10 +11,11 @@ int main(){
         printf("Odd");
 
     }else if(number<0){
-
-
-
-
+        printf("Negative ");
+        if(number % 2 == 0)
+        printf("Even");
+        else
+        printf("odd");
     }else
     printf("zero");
     return 0;
