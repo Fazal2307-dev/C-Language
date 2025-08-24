@@ -10,9 +10,12 @@ int main(){
         else
         printf("Odd");
 
-    }
+    }else if(number<0){
 
 
 
+
+    }else
+    printf("zero");
     return 0;
 }
