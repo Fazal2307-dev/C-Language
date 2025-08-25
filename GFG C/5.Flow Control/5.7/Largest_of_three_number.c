@@ -6,6 +6,8 @@ int main(){
     if(a>b && a>c){
         printf("A is bigger than all of you");
 
+    }else if(b>a && b>c){
+        printf("B is bigger than all of you");
     }
 
     return 0;
