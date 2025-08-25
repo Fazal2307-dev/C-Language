@@ -9,7 +9,8 @@ int main(){
     }else if(b>a && b>c){
         printf("B is bigger than all of you");
     }
-
+    else
+    printf("C is  bigger than all you");
     return 0;
 }
 
