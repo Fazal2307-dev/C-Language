@@ -7,8 +7,7 @@ int main(){
         printf("Not a Prime");
         return 0;
     }
-    int i =2;
-    while(i<n){
+    for(int i=2;i<n;){
         if(n % i ==0){
             printf("Not a prime no");
             return 0;
