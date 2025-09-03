@@ -7,10 +7,6 @@ int sorted(int a[],int n){
     }
     return 1;
 }
-
-
-
-
 int main(){
     int n;
     scanf("%d",&n);
